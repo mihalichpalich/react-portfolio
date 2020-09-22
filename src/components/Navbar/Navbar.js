@@ -19,6 +19,7 @@ import MobileRightMenuSlider from "@material-ui/core/Drawer";
 
 import avatar from '../../assets/avatar.png';
 import styles from './styles';
+import Footer from "../Footer/Footer";
 
 const useStyles = makeStyles(styles);
 
@@ -95,6 +96,7 @@ const Navbar = () => {
                             onClose={toggleSlider("right", false)}
                         >
                             {sideList("right")}
+                            <Footer/>
                         </MobileRightMenuSlider>
                     </Toolbar>
                 </AppBar>

@@ -6,6 +6,7 @@ import {Route, Switch} from 'react-router-dom';
 import Home from "./components";
 import Resume from "./components/Resume/Resume";
 import Portfolio from "./components/Portfolio/Portfolio";
+import Contacts from "./components/Contacts/Contacts";
 
 const App = () => {
     return (
@@ -14,6 +15,7 @@ const App = () => {
                 <Route exact path="/" component={Home}/>
                 <Route path="/resume" component={Resume}/>
                 <Route path="/portfolio" component={Portfolio}/>
+                <Route path="/contacts" component={Contacts}/>
             </Switch>
         </CssBaseline>
     );
