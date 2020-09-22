@@ -2,8 +2,8 @@ import React from 'react';
 import Particles from "react-particles-js";
 import {makeStyles} from "@material-ui/core/styles";
 
-import Navbar from "./Navbar";
-import Header from './Header';
+import Navbar from "./Navbar/Navbar";
+import Header from './Header/Header';
 
 const useStyles = makeStyles({
     particlesCanva: {

@@ -5,6 +5,7 @@ import {Route, Switch} from 'react-router-dom';
 
 import Home from "./components";
 import Resume from "./components/Resume/Resume";
+import Portfolio from "./components/Portfolio/Portfolio";
 
 const App = () => {
     return (
@@ -12,6 +13,7 @@ const App = () => {
             <Switch>
                 <Route exact path="/" component={Home}/>
                 <Route path="/resume" component={Resume}/>
+                <Route path="/portfolio" component={Portfolio}/>
             </Switch>
         </CssBaseline>
     );

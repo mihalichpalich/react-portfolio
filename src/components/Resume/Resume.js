@@ -2,7 +2,7 @@ import React from 'react';
 import {makeStyles} from "@material-ui/core/styles";
 import {Typography, Box} from "@material-ui/core";
 
-import Navbar from "../Navbar";
+import Navbar from "../Navbar/Navbar";
 import styles from './styles';
 
 const useStyles = makeStyles(styles);

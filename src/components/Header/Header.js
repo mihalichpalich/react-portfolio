@@ -3,31 +3,10 @@ import {Typography, Avatar, Grid, Box} from "@material-ui/core";
 import Typed from 'react-typed';
 import {makeStyles} from "@material-ui/core/styles";
 
-import avatar from '../assets/avatar.png';
+import avatar from '../../assets/avatar.png';
+import styles from "./styles";
 
-const useStyles = makeStyles(theme => ({
-    typedContainer: {
-        width: "100vw",
-        position: "absolute",
-        top: "50%",
-        left: "50%",
-        textAlign: "center",
-        zIndex: 1,
-        transform: "translate(-50%, -50%)"
-    },
-    avatar: {
-        width: theme.spacing(15),
-        height: theme.spacing(15),
-        margin: theme.spacing(1)
-    },
-    title: {
-        color: "tomato"
-    },
-    subtitle: {
-        marginBottom: "3rem",
-        color: "tan"
-    }
-}));
+const useStyles = makeStyles(styles);
 
 const Header = () => {
     const classes = useStyles();
