@@ -38,19 +38,19 @@ const useStyles = makeStyles(theme => ({
 const menuItems = [
     {
         listIcon: <Home/>,
-        listText: "Home"
+        listText: "Главная"
     },
     {
         listIcon: <AssignmentInd/>,
-        listText: "Resume"
+        listText: "Резюме"
     },
     {
         listIcon: <Apps/>,
-        listText: "Portfolio"
+        listText: "Портфолио"
     },
     {
         listIcon: <ContactMail/>,
-        listText: "Contacts"
+        listText: "Контакты"
     }
 ];
 
@@ -72,7 +72,7 @@ const Navbar = () => {
             component="div"
             onClick={toggleSlider(slider, false)}
         >
-            <Avatar className={classes.avatar} src={avatar} alt="Mikhail Pavlov"/>
+            <Avatar className={classes.avatar} src={avatar} alt="Михаил Павлов"/>
 
             <Divider/>
 
