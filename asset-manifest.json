@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react_portfolio/static/css/main.07a40a77.chunk.css",
+    "main.js": "/react_portfolio/static/js/main.e33a86ed.chunk.js",
+    "main.js.map": "/react_portfolio/static/js/main.e33a86ed.chunk.js.map",
+    "runtime-main.js": "/react_portfolio/static/js/runtime-main.d05fa38a.js",
+    "runtime-main.js.map": "/react_portfolio/static/js/runtime-main.d05fa38a.js.map",
+    "static/js/2.d01aba1f.chunk.js": "/react_portfolio/static/js/2.d01aba1f.chunk.js",
+    "static/js/2.d01aba1f.chunk.js.map": "/react_portfolio/static/js/2.d01aba1f.chunk.js.map",
+    "index.html": "/react_portfolio/index.html",
+    "precache-manifest.329dad229cd56c39ce33e9e5a43f4883.js": "/react_portfolio/precache-manifest.329dad229cd56c39ce33e9e5a43f4883.js",
+    "service-worker.js": "/react_portfolio/service-worker.js",
+    "static/css/main.07a40a77.chunk.css.map": "/react_portfolio/static/css/main.07a40a77.chunk.css.map",
+    "static/js/2.d01aba1f.chunk.js.LICENSE.txt": "/react_portfolio/static/js/2.d01aba1f.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/react_portfolio/static/media/avatar.7c8e5f50.png",
+    "static/media/App.css": "/react_portfolio/static/media/coffee-apple.2dd213aa.jpg",
+    "static/media/react-apollo-course-frontend.jpg": "/react_portfolio/static/media/react-apollo-course-frontend.526ad340.jpg",
+    "static/media/react-chat.jpg": "/react_portfolio/static/media/react-chat.ca1fecf0.jpg",
+    "static/media/react-native-flights-app.png": "/react_portfolio/static/media/react-native-flights-app.5e38b9c2.png",
+    "static/media/react-native-tutor-app.jpg": "/react_portfolio/static/media/react-native-tutor-app.152c3e01.jpg",
+    "static/media/react_chat.jpg": "/react_portfolio/static/media/react_chat.ab273de4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d05fa38a.js",
+    "static/js/2.d01aba1f.chunk.js",
+    "static/css/main.07a40a77.chunk.css",
+    "static/js/main.e33a86ed.chunk.js"
+  ]
+}
