@@ -1,7 +1,6 @@
 body {
   background: url("./assets/coffee-apple.jpg") no-repeat center center fixed;
   overflow-x: hidden;
-  overflow-y: hidden;
   -webkit-background: cover;
   -moz-background: cover;
   -o-background: cover;

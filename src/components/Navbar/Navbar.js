@@ -32,8 +32,8 @@ const menuItems = [
     },
     {
         listIcon: <AssignmentInd/>,
-        listText: "Резюме",
-        listPath: "/resume"
+        listText: "Опыт и достижения",
+        listPath: "/experience_and_achievements"
     },
     {
         listIcon: <Apps/>,

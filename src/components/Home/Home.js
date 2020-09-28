@@ -2,15 +2,11 @@ import React from 'react';
 import Particles from "react-particles-js";
 import {makeStyles} from "@material-ui/core/styles";
 
-import Navbar from "./Navbar/Navbar";
-import Header from './Header/Header';
+import Navbar from "../Navbar/Navbar";
+import Header from '../Header/Header';
+import styles from './styles';
 
-const useStyles = makeStyles({
-    particlesCanva: {
-        position: "absolute",
-        opacity: "0.3"
-    }
-});
+const useStyles = makeStyles(styles);
 
 const Home = () => {
     const classes = useStyles();

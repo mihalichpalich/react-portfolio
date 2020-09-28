@@ -59,15 +59,17 @@ const Contacts = () => {
                     <Typography
                         variant="h5"
                         style={{
-                            color: "tomato",
                             textAlign: "center",
+                            color: "tomato",
+                            fontSize: "16px",
                             textTransform: "uppercase"
                         }}>Оставьте свои контактные данные,</Typography>
                     <Typography
                         variant="h5"
                         style={{
-                            color: "tomato",
                             textAlign: "center",
+                            fontSize: "16px",
+                            color: "tomato",
                             textTransform: "uppercase"
                         }}>и я обязательно свяжусь с вами</Typography>
 
