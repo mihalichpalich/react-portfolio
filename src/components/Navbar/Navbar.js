@@ -41,8 +41,8 @@ const menuItems = [
     },
     {
         listIcon: <ContactMail/>,
-        listText: "Контакты",
-        listPath: "/contacts"
+        listText: "Связаться со мной",
+        listPath: "/contact"
     }
 ];
 
