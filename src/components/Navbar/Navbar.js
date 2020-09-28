@@ -12,7 +12,8 @@ import {
     Box,
     ListItemIcon
 } from "@material-ui/core";
-import {ArrowBack, AssignmentInd, Home, Apps, ContactMail} from "@material-ui/icons";
+import {AssignmentInd, Home, Apps, ContactMail} from "@material-ui/icons";
+import MenuIcon from '@material-ui/icons/Menu';
 import {Link} from "react-router-dom";
 import {makeStyles} from "@material-ui/core/styles";
 import MobileRightMenuSlider from "@material-ui/core/Drawer";
@@ -85,10 +86,9 @@ const Navbar = () => {
                 <AppBar position="static" style={{background: "#222222"}}>
                     <Toolbar>
                         <IconButton onClick={toggleSlider('right', true)}>
-                            <ArrowBack style={{color: "tomato"}}/>
+                            <MenuIcon style={{marginRight: 10, color: "tomato"}}/>
+                            <Typography variant="h5" style={{color: 'tan'}}>Меню</Typography>
                         </IconButton>
-
-                        <Typography variant="h5" style={{color: 'tan'}}>Portfolio</Typography>
 
                         <MobileRightMenuSlider
                             anchor="right"
