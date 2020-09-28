@@ -1,6 +1,6 @@
 import React from 'react';
 import {makeStyles} from "@material-ui/core/styles";
-import {BottomNavigation, BottomNavigationAction, Link} from "@material-ui/core";
+import {BottomNavigation, BottomNavigationAction} from "@material-ui/core";
 import {GitHub, LinkedIn} from "@material-ui/icons";
 
 const useStyles = makeStyles({

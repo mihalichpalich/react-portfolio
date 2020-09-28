@@ -5,6 +5,6 @@ export default theme => ({
     },
     cardContainer: {
         maxWidth: 345,
-        margin: "5rem auto"
+        margin: "3rem auto 1rem"
     }
 })
