@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.339251ea.chunk.css",
-    "main.js": "/static/js/main.2c5f52a4.chunk.js",
-    "main.js.map": "/static/js/main.2c5f52a4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ea1ad2b7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ea1ad2b7.js.map",
-    "static/js/2.d01aba1f.chunk.js": "/static/js/2.d01aba1f.chunk.js",
-    "static/js/2.d01aba1f.chunk.js.map": "/static/js/2.d01aba1f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b568e4a7de0e8838fabaad79cfc9237c.js": "/precache-manifest.b568e4a7de0e8838fabaad79cfc9237c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.339251ea.chunk.css.map": "/static/css/main.339251ea.chunk.css.map",
-    "static/js/2.d01aba1f.chunk.js.LICENSE.txt": "/static/js/2.d01aba1f.chunk.js.LICENSE.txt",
-    "static/media/avatar.png": "/static/media/avatar.7c8e5f50.png",
-    "static/media/App.css": "/static/media/coffee-apple.2dd213aa.jpg",
-    "static/media/react-apollo-course-frontend.jpg": "/static/media/react-apollo-course-frontend.526ad340.jpg",
-    "static/media/react-chat.jpg": "/static/media/react-chat.ca1fecf0.jpg",
-    "static/media/react-native-flights-app.png": "/static/media/react-native-flights-app.5e38b9c2.png",
-    "static/media/react-native-tutor-app.jpg": "/static/media/react-native-tutor-app.152c3e01.jpg",
-    "static/media/react_chat.jpg": "/static/media/react_chat.ab273de4.jpg"
+    "main.css": "https://miklasweb.ru/static/css/main.6918d20f.chunk.css",
+    "main.js": "https://miklasweb.ru/static/js/main.51383cb0.chunk.js",
+    "main.js.map": "https://miklasweb.ru/static/js/main.51383cb0.chunk.js.map",
+    "runtime-main.js": "https://miklasweb.ru/static/js/runtime-main.921f64ee.js",
+    "runtime-main.js.map": "https://miklasweb.ru/static/js/runtime-main.921f64ee.js.map",
+    "static/js/2.d01aba1f.chunk.js": "https://miklasweb.ru/static/js/2.d01aba1f.chunk.js",
+    "static/js/2.d01aba1f.chunk.js.map": "https://miklasweb.ru/static/js/2.d01aba1f.chunk.js.map",
+    "index.html": "https://miklasweb.ru/index.html",
+    "precache-manifest.7d0054a7ec294895f4cd6d606a31148a.js": "https://miklasweb.ru/precache-manifest.7d0054a7ec294895f4cd6d606a31148a.js",
+    "service-worker.js": "https://miklasweb.ru/service-worker.js",
+    "static/css/main.6918d20f.chunk.css.map": "https://miklasweb.ru/static/css/main.6918d20f.chunk.css.map",
+    "static/js/2.d01aba1f.chunk.js.LICENSE.txt": "https://miklasweb.ru/static/js/2.d01aba1f.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "https://miklasweb.ru/static/media/avatar.7c8e5f50.png",
+    "static/media/App.css": "https://miklasweb.ru/static/media/coffee-apple.2dd213aa.jpg",
+    "static/media/react-apollo-course-frontend.jpg": "https://miklasweb.ru/static/media/react-apollo-course-frontend.526ad340.jpg",
+    "static/media/react-chat.jpg": "https://miklasweb.ru/static/media/react-chat.ca1fecf0.jpg",
+    "static/media/react-native-flights-app.png": "https://miklasweb.ru/static/media/react-native-flights-app.5e38b9c2.png",
+    "static/media/react-native-tutor-app.jpg": "https://miklasweb.ru/static/media/react-native-tutor-app.152c3e01.jpg",
+    "static/media/react_chat.jpg": "https://miklasweb.ru/static/media/react_chat.ab273de4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea1ad2b7.js",
+    "static/js/runtime-main.921f64ee.js",
     "static/js/2.d01aba1f.chunk.js",
-    "static/css/main.339251ea.chunk.css",
-    "static/js/main.2c5f52a4.chunk.js"
+    "static/css/main.6918d20f.chunk.css",
+    "static/js/main.51383cb0.chunk.js"
   ]
 }
