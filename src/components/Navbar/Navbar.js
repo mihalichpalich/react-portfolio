@@ -71,7 +71,7 @@ const Navbar = () => {
 
             <List>
                 {menuItems.map((lsItem, key) => (
-                    <ListItem button key={key} component={Link} to={lsItem.listPath}>
+                    <ListItem button key={key} component={Link} to={process.env.PUBLIC_URL + lsItem.listPath}>
                         <ListItemIcon className={classes.listItem}>{lsItem.listIcon}</ListItemIcon>
                         <ListItemText className={classes.listItem} primary={lsItem.listText}/>
                     </ListItem>
