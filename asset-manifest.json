@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.f22c0279.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.775adbcb.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.775adbcb.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.c7c28671.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.c7c28671.js.map",
-    "static/js/2.d01aba1f.chunk.js": "/react-portfolio/static/js/2.d01aba1f.chunk.js",
-    "static/js/2.d01aba1f.chunk.js.map": "/react-portfolio/static/js/2.d01aba1f.chunk.js.map",
-    "index.html": "/react-portfolio/index.html",
-    "precache-manifest.579be210a2bf24df357f0bbaa9255047.js": "/react-portfolio/precache-manifest.579be210a2bf24df357f0bbaa9255047.js",
-    "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/css/main.f22c0279.chunk.css.map": "/react-portfolio/static/css/main.f22c0279.chunk.css.map",
-    "static/js/2.d01aba1f.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.d01aba1f.chunk.js.LICENSE.txt",
-    "static/media/avatar.png": "/react-portfolio/static/media/avatar.7c8e5f50.png",
-    "static/media/App.css": "/react-portfolio/static/media/coffee-apple.2dd213aa.jpg",
-    "static/media/react-apollo-course-frontend.jpg": "/react-portfolio/static/media/react-apollo-course-frontend.526ad340.jpg",
-    "static/media/react-chat.jpg": "/react-portfolio/static/media/react-chat.ca1fecf0.jpg",
-    "static/media/react-native-flights-app.png": "/react-portfolio/static/media/react-native-flights-app.5e38b9c2.png",
-    "static/media/react-native-tutor-app.jpg": "/react-portfolio/static/media/react-native-tutor-app.152c3e01.jpg",
-    "static/media/react_chat.jpg": "/react-portfolio/static/media/react_chat.ab273de4.jpg"
+    "main.css": "/static/css/main.339251ea.chunk.css",
+    "main.js": "/static/js/main.17d0bb84.chunk.js",
+    "main.js.map": "/static/js/main.17d0bb84.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ea1ad2b7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ea1ad2b7.js.map",
+    "static/js/2.d01aba1f.chunk.js": "/static/js/2.d01aba1f.chunk.js",
+    "static/js/2.d01aba1f.chunk.js.map": "/static/js/2.d01aba1f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dd061dcfe10a59e49ac88cb1141fa765.js": "/precache-manifest.dd061dcfe10a59e49ac88cb1141fa765.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.339251ea.chunk.css.map": "/static/css/main.339251ea.chunk.css.map",
+    "static/js/2.d01aba1f.chunk.js.LICENSE.txt": "/static/js/2.d01aba1f.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/static/media/avatar.7c8e5f50.png",
+    "static/media/App.css": "/static/media/coffee-apple.2dd213aa.jpg",
+    "static/media/react-apollo-course-frontend.jpg": "/static/media/react-apollo-course-frontend.526ad340.jpg",
+    "static/media/react-chat.jpg": "/static/media/react-chat.ca1fecf0.jpg",
+    "static/media/react-native-flights-app.png": "/static/media/react-native-flights-app.5e38b9c2.png",
+    "static/media/react-native-tutor-app.jpg": "/static/media/react-native-tutor-app.152c3e01.jpg",
+    "static/media/react_chat.jpg": "/static/media/react_chat.ab273de4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7c28671.js",
+    "static/js/runtime-main.ea1ad2b7.js",
     "static/js/2.d01aba1f.chunk.js",
-    "static/css/main.f22c0279.chunk.css",
-    "static/js/main.775adbcb.chunk.js"
+    "static/css/main.339251ea.chunk.css",
+    "static/js/main.17d0bb84.chunk.js"
   ]
 }
