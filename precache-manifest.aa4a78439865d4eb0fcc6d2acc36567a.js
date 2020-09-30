@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f81404621badafdfb4a7441fd9f1a01",
+    "revision": "a0361858c642070ac66fce304981d5b5",
     "url": "https://miklasweb.ru/index.html"
   },
   {
-    "revision": "9f33b8499ff733b39a7f",
+    "revision": "108d53aec97978a79629",
     "url": "https://miklasweb.ru/static/css/main.6918d20f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://miklasweb.ru/static/js/2.d01aba1f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9f33b8499ff733b39a7f",
-    "url": "https://miklasweb.ru/static/js/main.51383cb0.chunk.js"
+    "revision": "108d53aec97978a79629",
+    "url": "https://miklasweb.ru/static/js/main.2a13c59d.chunk.js"
   },
   {
     "revision": "5cfcdff63ccb581aab07",
