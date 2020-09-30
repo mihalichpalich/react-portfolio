@@ -12,10 +12,10 @@ const App = () => {
     return (
         <CssBaseline>
             <Switch>
-                <Route exact path="/" component={Home}/>
-                <Route path="/experience_and_achievements" component={ExpAndAchs}/>
-                <Route path="/portfolio" component={Portfolio}/>
-                <Route path="/contact" component={Contacts}/>
+                <Route exact path={process.env.PUBLIC_URL + '/'} component={Home}/>
+                <Route path={process.env.PUBLIC_URL + '/experience_and_achievements'} component={ExpAndAchs}/>
+                <Route path={process.env.PUBLIC_URL + '/portfolio'} component={Portfolio}/>
+                <Route path={process.env.PUBLIC_URL + '/contact'} component={Contacts}/>
             </Switch>
         </CssBaseline>
     );
